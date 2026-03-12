@@ -6,7 +6,7 @@
       "game_version": ">=1.0.0",
       "date": "2026-03-09",
       "changelog": "Initial release (ported by ryandicicco). Original map by Lawrencelot. Covers the Rotterdam-The Hague metro corridor in the Randstad region, including Rotterdam Centrum, The Hague, Delft, Schiedam, Vlaardingen, and Rotterdam The Hague Airport (RTM).",
-      "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/rtm-v1.0.0/RTM.zip",
+      "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.0.1/RTM.zip",
       "sha256": "881b595ea72c64aa42316aadb08f1d432b99af7c222eadb7e8fa92e7ad302333"
     }
   ]
