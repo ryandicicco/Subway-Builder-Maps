@@ -16,6 +16,14 @@
       "changelog": "Fixed oversized demand bubbles at major employment nodes (Schiphol, Aalsmeer, etc.).",
       "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.0/AMS_v101.zip",
       "sha256": "3af6708f7b3454f4cb9963962deadff98fd80e6e68d170873b1e52a3cf8733a4"
+    },
+    {
+      "version": "1.2.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-03-16",
+      "changelog": "Added demand coverage for Uithoorn — residents and commute pairs now included.",
+      "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.2.0/AMS_v120.zip",
+      "sha256": "8de5a34bd3d70bf5564f172ff48a4fd9cdbf416630df15fd08a850637e604900"
     }
   ]
 }
