@@ -22,8 +22,8 @@
       "game_version": ">=1.0.0",
       "date": "2026-03-16",
       "changelog": "Added demand coverage for Uithoorn — residents and commute pairs now included.",
-      "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.2.0/AMS_v120.zip",
-      "sha256": "8de5a34bd3d70bf5564f172ff48a4fd9cdbf416630df15fd08a850637e604900"
+      "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.2.0/AMS_v120_full.zip",
+      "sha256": "c9fd2cca033d35a5617fe2a41543cb2a9cddaea464908545de83ec7fcc308aaf"
     }
   ]
 }
