@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "2.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-03-22",
+      "changelog": "Major update: merged 1.3M+ building footprints and 725K+ road segments from Overture Maps (Google Open Buildings + Microsoft + OSM). Demand data generated from building density via Voronoi tessellation.",
+      "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v2.0.0/CAI.zip",
+      "sha256": "5685812a9561acdc58e0b6317049790dee375227aad10ef42012e03c04ee1201"
+    }
+  ]
+}
