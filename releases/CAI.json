@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "2.0.1",
+      "game_version": ">=1.0.0",
+      "date": "2026-03-23",
+      "changelog": "Fix: repaired corrupted buildings_index.json that prevented building demolition in-game.",
+      "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v2.0.1/CAI.zip",
+      "sha256": "eb5f6f280e7d6ace4047627fe19d801e159c596f4b9758a2ec38123a842ad077"
+    },
+    {
       "version": "2.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-03-22",
