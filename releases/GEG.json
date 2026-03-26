@@ -2,6 +2,22 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "2.1.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-03-26",
+      "changelog": "Upgraded to slurry's LODES demand tool with osmnx route calculation; added airport, university, and military base demand layers",
+      "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v2.1.0-geg/GEG.zip",
+      "sha256": "d89c66ec7376fb8b9da9a61ff227961c087ce218f7df78e50ddf525d9b1b6685"
+    },
+    {
+      "version": "2.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-03-26",
+      "changelog": "Switched to LODES (Census LEHD Origin-Destination) data for demand generation; real commute flow patterns replace building-based estimates",
+        "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v2.0.0-geg/GEG.zip",
+        "sha256": "a2928a130704da97cad2357c489488458dc0980a1a5401899f2f125ff44eba23"
+        },
+    {
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-03-26",
