@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-03-26",
+      "changelog": "Initial release: Spokane - The Lilac City",
+      "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.0.0-geg/GEG.zip",
+      "sha256": "502531e2836a1c6deaa37a0008bfa4f90d2caf00b4b4623bd279430a15b7d316"
+    }
+  ]
+}
