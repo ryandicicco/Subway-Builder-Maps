@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-03-30",
+      "changelog": "Initial release. 378,004 buildings from five sources (Overture, OKC City 2020 aerial servey, FEMA/ORNL, Microsoft, OSM). High-quality LODES demand data with pre-calculated routes. Includes Will Rogers World Airport (OKC), 7 universities, Tinker AFB, and entertainment venues.",
+      "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.0.0-okc/OKC.zip",
+      "sha256": "5dfc954a34ce925abdbf1331ff5378de6449b1f43ce55090bf12670d7393de50"
+    }
+  ]
+}
