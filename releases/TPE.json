@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.2.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-04-08",
+      "changelog": "Taipei (TPE) initial release. Expanded map coverage, fixed building geometry issues, corrected tile height data and injection, improved demand data with merged points and realistic modal split, removed water-based demand points, additional road coverage from expanded area, added neighborhood labels.",
+      "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.2.0-tpe/TPE.zip",
+      "sha256": "67b40d4e075d62e8accb13596a9d353cc4119e3d1e6c2a5f7100f40b23808644"
+    }
+  ]
+}
