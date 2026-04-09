@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "2.1.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-04-08",
+      "changelog": "Expanded building coverage with Overture and Microsoft Buildings data (~4x increase over OSM-only). Regenerated demand using LODES census commuting flows for more realistic job/resident distribution.",
+      "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v2.1.0-cai/CAI.zip",
+      "sha256": "d8f2f28dbf25b2c99d9106724f0e05b751e05133e412dadaf8f46bf69d6a55aa"
+    },
+    {
       "version": "2.0.1",
       "game_version": ">=1.0.0",
       "date": "2026-03-23",
