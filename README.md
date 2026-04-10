@@ -19,7 +19,7 @@ _The table above is regenerated automatically whenever a release manifest change
 
 ## How to install
 
-You'll need [Railyard](https://subwaybuildermodded.com/railyard/), the community map installer for Subway Builder. Once it's running:
+You'll need [Railyard](https://subwaybuildermodded.com/railyard/), the community map/mod installer for Subway Builder.
 
 1. Open Railyard and head to the **Browse** tab.
 2. Find the map you'd like to install by typing in the search bar or applying any of the filters on the left.
