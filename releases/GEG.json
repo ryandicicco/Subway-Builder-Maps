@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "2.2.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-04-10",
+      "changelog": "Added city, suburb, and neighborhood labels across the Spokane metro bbox via the tippecanoe + tile-join label pipeline.",
+      "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v2.2.0-geg/GEG.zip",
+      "sha256": "62a84fb8e7fc8321c2e4ec85ccdea6fca032d1421093558bf224c16ee8f7bca5"
+    },
+    {
       "version": "2.1.0",
       "game_version": ">=1.0.0",
       "date": "2026-03-26",
