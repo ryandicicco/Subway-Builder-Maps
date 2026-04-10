@@ -15,7 +15,7 @@ Custom maps for [Subway Builder](https://www.subwaybuilder.com/) by Ryan DiCicco
 | TPE | Taipei | Taiwan | 1.2.0 | 2026-04-08 |
 <!-- MAPS_TABLE:END -->
 
-_The table above is regenerated automatically whenever a release manifest changes; don't edit it by hand._
+_The table above is regenerated automatically whenever a release manifest changes._
 
 ## How to install
 
