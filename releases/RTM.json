@@ -8,7 +8,7 @@
       "changelog": "Added city, suburb, and neighborhood labels across the Rotterdam-The Hague corridor. Added country:NL so the map now groups correctly under the Netherlands tab in-game alongside Amsterdam, instead of falling through to the no-country bucket.",
       "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.0-rtm/RTM.zip",
       "sha256": "e7902ae23af19bad046bf9fb4bb54dffc92fc69cad53bbaf4b50884ac6405ac6"
-    }
+    },
     {
       "version": "1.0.0",
       "game_version": ">=1.0.0",
