@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "2.2.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-04-10",
+      "changelog": "Added city, suburb, and neighborhood labels across the Greater Cairo bbox (17 cities, 191 suburbs, 20 neighborhoods). Fixed labels to render in English (Giza, Dokki, Mohandeseen, 6th of October, Old Cairo, etc.) instead of Arabic by re-querying Overpass with a name:en fallback chain. Rebuilt PMTiles to include the three label layers that were missing from the 2.1.0 build.",
+      "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v2.2.0-cai/CAI.zip",
+      "sha256": "653d9e21e488639e8b2dcb91a50dfe7a3a8c9c9c0e0ead15cc44be38e750ad6b"
+    },
+    {
       "version": "2.1.0",
       "game_version": ">=1.0.0",
       "date": "2026-04-08",
