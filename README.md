@@ -1,6 +1,6 @@
 # Subway Builder Maps
 
-Custom maps for [Subway Builder](https://store.steampowered.com/app/3029480/Subway_Builder/) by ryandicicco. Cities the base game doesn't ship with; built, tuned, and kept up to date here.
+Custom maps for [Subway Builder](https://www.subwaybuilder.com/) by Ryan DiCicco. A few cities the base game doesn't ship with; built, tuned, and kept up to date here.
 
 ## Available maps
 
@@ -19,18 +19,14 @@ _The table above is regenerated automatically whenever a release manifest change
 
 ## How to install
 
-You'll need [Railyard](RAILYARD_LINK_TBD), the community map installer for Subway Builder. Once it's running:
+You'll need [Railyard](https://subwaybuildermodded.com/railyard/), the community map/mod installer for Subway Builder. Once it's running:
 
-1. Open Railyard and head to the **Browse** tab.
-2. Add a new map source and paste the update URL for the map you want. The format is:
-   ```
-   https://raw.githubusercontent.com/ryandicicco/Subway-Builder-Maps/main/releases/{CODE}.json
-   ```
-   Swap `{CODE}` for any code from the table above; e.g. `CAI.json` for Cairo, `RTM.json` for Rotterdam-The Hague.
-3. Railyard fetches the zip, installs it, and the map will show up in Subway Builder the next time you launch the game.
+1. Type in the search bar or select filters on the left side.
+2. Find the map you want and click it.
+3. Click **Download** in the top right.
 
 That's it. No manual file moving, no editing game files.
 
 ## Updates
 
-Every map has a manifest at `releases/{CODE}.json` that Railyard checks for new versions. When I ship an update, Railyard notices, flags the new version in the app, and one click pulls it down. Full version history for each map lives in its JSON file if you want to see what changed and when.
+Railyard checks for new versions automatically and will flag updates in the app when they're available; one click and you're on the latest. Full version history for each map lives in its `releases/{CODE}.json` manifest if you want to see what changed and when.
