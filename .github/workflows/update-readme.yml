@@ -18,22 +18,17 @@ concurrency:
   group: update-readme
   cancel-in-progress: false
 
-env:
-  # Opt into Node.js 24 for JavaScript-based actions ahead of the June 2026
-  # runner cutover; silences the deprecation warning on checkout/setup-python.
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
-
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           persist-credentials: true
 
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.11'
 
