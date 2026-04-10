@@ -4,7 +4,7 @@
     {
       "version": "1.1.0",
       "game_version": ">=1.0.0",
-      "date": 2026-04-10",
+      "date": "2026-04-10",
       "changelog": "Added city, suburb, and neighborhood labels across the OKC metro bbox. Thinned neighborhood labels from 67 to 25 features by deduping OSM plat artifacts and enforcing a 600 m minimum spacing between kept features; survivors include Bricktown, Midtown OKC, Wheeler District, Heritage Hills East, Asian District, Mesta Park, and Jefferson Park. Added country:US metadata to config.",
       "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.0-okc/OKC.zip",
       "sha256": "1526b5211b50ec139f72647e6dc450f970c4a858f1b26be5369f374a285b7a86"
