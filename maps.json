@@ -1,10 +1,10 @@
 {
   "maps": [
-    { "code": "AMS", "city": "Amsterdam", "country": "Netherlands" },
-    { "code": "CAI", "city": "Cairo", "country": "Egypt" },
-    { "code": "GEG", "city": "Spokane", "country": "USA" },
-    { "code": "OKC", "city": "Oklahoma City", "country": "USA" },
-    { "code": "RTM", "city": "Rotterdam-The Hague", "country": "Netherlands" },
-    { "code": "TPE", "city": "Taipei", "country": "Taiwan" }
+    { "code": "AMS", "city": "Amsterdam", "country": "NL" },
+    { "code": "CAI", "city": "Cairo", "country": "EG" },
+    { "code": "GEG", "city": "Spokane", "country": "US" },
+    { "code": "OKC", "city": "Oklahoma City", "country": "US" },
+    { "code": "RTM", "city": "Rotterdam-The Hague", "country": "NL" },
+    { "code": "TPE", "city": "Taipei", "country": "TW" }
   ]
 }
