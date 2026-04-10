@@ -1,0 +1,48 @@
+name: Update README maps table
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'releases/**'
+      - 'maps.json'
+      - '.github/workflows/update-readme.yml'
+      - '.github/scripts/update_readme.py'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Regenerate README table
+        run: python .github/scripts/update_readme.py
+
+      - name: Commit and push if README changed
+        run: |
+          if [ -n "$(git status --porcelain README.md)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: auto-update maps table in README"
+            git push
+          else
+            echo "No README changes; skipping commit."
+          fi
