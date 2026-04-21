@@ -7,7 +7,7 @@
       "date": "2026-04-21",
       "changelog": "Initial public release. Greater Dubai map built from 2024 Dubai Statistics Center community population data (224 communities, 4,248,200 residents), WorldPop 100m rasters aggregated to a ~250m grid, 43 curated employment zones plus 4 density-distributed service categories (3,105,983 modeled jobs), and a v5 doubly-constrained gravity model tuned for a Dubai-realistic commute distribution (alpha=1.0, top-25 destinations per origin, 5 km deterrence floor; size-weighted median commute 12.2 min / 7.1 km; share under 1.5 km = 3.9%; share over 5 km = 58.3%; in-game walking mode share ~5%). Includes 361,640-entry buildings collision index, ocean bathymetry, DXB/DWC runway+taxiway layer, and multi-scale English labels (7 cities, 299 suburbs, 63 neighborhoods) via a name:en-first fallback chain.",
       "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.2.0-dxb/DXB.zip",
-      "sha256": "c6a3aede94be2dd67aa9647aa6725cd7c019ecd83f933fc37422792c7fa20222"
+      "sha256": "2304942c21aa0bcbe93bb5add45f51367ed6bcb3db60db051a15976cdb216926"
     }
   ]
 }
