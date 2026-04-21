@@ -5,7 +5,7 @@
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-04-21",
-      "changelog": "Initial public release. The atomic cities of southeastern Washington State - Kennewick, Pasco, and Richland, where the Columbia and Snake rivers meet.",
+      "changelog": "Initial public release. Tri-Cities, WA (Kennewick-Pasco-Richland) map built from US Census LODES 2022 tract-level origin-destination commute data (333 demand points, 328,405 residents, 328,405 jobs, 6,451 commute OD pairs; DEMAND_FACTOR=5). Special demand for Tri-Cities Airport (PSC; 2,700 daily pax), three universities (WSU Tri-Cities, Columbia Basin College, Heritage University-TC), and TRAC event center. Includes 43,822-entry buildings collision index, PSC runway+taxiway layer, and multi-scale labels (3 cities, 8 suburbs, 25 neighborhoods) via OpenStreetMap Overpass API place nodes.",
       "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.0.0-psc/PSC.zip",
       "sha256": "6f448d2dcf091a2f18acbc3406249109e6c844af1a9a6dd5be8614f24d364b1e"
     }

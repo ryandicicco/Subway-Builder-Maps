@@ -6,6 +6,7 @@
     { "code": "GEG", "city": "Spokane", "country": "US" },
     { "code": "OKC", "city": "Oklahoma City", "country": "US" },
     { "code": "RTM", "city": "Rotterdam-The Hague", "country": "NL" },
+    { "code": "PSC", "city": "Tri-Cities", "country": "US" },
     { "code": "TPE", "city": "Taipei", "country": "TW" }
   ]
 }
