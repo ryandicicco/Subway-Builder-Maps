@@ -9,6 +9,7 @@ Custom maps for [Subway Builder](https://www.subwaybuilder.com/) by Ryan DiCicco
 | --- | --- | --- | --- | --- |
 | AMS | Amsterdam | NL | 1.2.0 | 2026-03-16 |
 | CAI | Cairo | EG | 2.2.0 | 2026-04-10 |
+| DXB | Dubai | AE | 1.2.0 | 2026-04-21 |
 | GEG | Spokane | US | 2.2.0 | 2026-04-10 |
 | OKC | Oklahoma City | US | 1.1.0 | 2026-04-10 |
 | RTM | Rotterdam-The Hague | NL | 1.1.0 | 2026-04-10 |
