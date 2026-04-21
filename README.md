@@ -13,6 +13,7 @@ Custom maps for [Subway Builder](https://www.subwaybuilder.com/) by Ryan DiCicco
 | GEG | Spokane | US | 2.2.0 | 2026-04-10 |
 | OKC | Oklahoma City | US | 1.1.0 | 2026-04-10 |
 | RTM | Rotterdam-The Hague | NL | 1.1.0 | 2026-04-10 |
+| PSC | Tri-Cities | US | 1.0.0 | 2026-04-21 |
 | TPE | Taipei | TW | 1.2.0 | 2026-04-08 |
 <!-- MAPS_TABLE:END -->
 
