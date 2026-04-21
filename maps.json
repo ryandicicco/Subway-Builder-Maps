@@ -2,6 +2,7 @@
   "maps": [
     { "code": "AMS", "city": "Amsterdam", "country": "NL" },
     { "code": "CAI", "city": "Cairo", "country": "EG" },
+    { "code": "DXB", "city": "Dubai", "country": "AE" },
     { "code": "GEG", "city": "Spokane", "country": "US" },
     { "code": "OKC", "city": "Oklahoma City", "country": "US" },
     { "code": "RTM", "city": "Rotterdam-The Hague", "country": "NL" },
