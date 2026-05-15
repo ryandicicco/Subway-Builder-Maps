@@ -61,13 +61,18 @@ def discover_release_codes() -> list[str]:
     return sorted(p.stem for p in RELEASES_DIR.glob("*.json"))
 
 
-def latest_version(code: str) -> tuple[str, str]:
+def latest_version(code: str) -> tuple[str, str, str]:
+    """Return (version, date, download_url) from the first entry in versions."""
     manifest = json.loads((RELEASES_DIR / f"{code}.json").read_text(encoding="utf-8"))
     versions = manifest.get("versions") or []
     if not versions:
-        return "n/a", "n/a"
+        return "n/a", "n/a", ""
     latest = versions[0]
-    return latest.get("version", "n/a"), latest.get("date", "n/a")
+    return (
+        latest.get("version", "n/a"),
+        latest.get("date", "n/a"),
+        latest.get("download", ""),
+    )
 
 
 def build_table(meta: dict[str, dict], codes: list[str]) -> str:
@@ -79,10 +84,12 @@ def build_table(meta: dict[str, dict], codes: list[str]) -> str:
     ordered = sorted(codes, key=lambda c: meta[c]["_order"])
     rows = []
     for code in ordered:
-        version, date = latest_version(code)
+        version, date, download = latest_version(code)
         m = meta[code]
+        # Link the version number to the download URL if available.
+        version_cell = f"[{version}]({download})" if download else version
         rows.append(
-            f"| {code} | {m['city']} | {m['country']} | {version} | {date} |"
+            f"| {code} | {m['city']} | {m['country']} | {version_cell} | {date} |"
         )
     return "\n".join(header + rows)
 
