@@ -7,7 +7,7 @@
       "date": "2026-06-23",
       "changelog": "Initial public release. Greater Stockholm map covering all 26 municipalities of Stockholms län using SCB's 2025 DeSO zones (1,362 demand points). Residential population from SCB nattbefolkning; workplace employment from SCB dagbefolkning (AM0207Z), distributed via OSM building footprints for realistic jobs/residents separation. Commuter flows from SCB RAMS OD matrix (1,191,009 commuters). Includes Stockholm Arlanda Airport as special demand (22.7M annual passengers). 701,502 buildings indexed for collision geometry.",
       "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.0.0-sto/STO.zip",
-      "sha256": "9a9d8f6b030f486e1ae9adeeaaefc0d9880df4ada89597ea239b7e8214ea6e48"
+      "sha256": "290c0e8d16daa70dad93b595d4bb4b69d0a6d24700d7aab257daec3548ec7fdb"
     }
   ]
 }
