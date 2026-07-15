@@ -11,7 +11,7 @@ Custom maps for [Subway Builder](https://www.subwaybuilder.com/) by Ryan DiCicco
 | CAI | Cairo | EG | [2.2.0](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v2.2.0-cai/CAI.zip) | 2026-04-10 |
 | DXB | Dubai | AE | [1.2.0](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.2.0-dxb/DXB.zip) | 2026-04-21 |
 | GEG | Spokane | US | [2.2.0](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v2.2.0-geg/GEG.zip) | 2026-04-10 |
-| OKC | Oklahoma City | US | [1.1.0](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.0-okc/OKC.zip) | 2026-04-10 |
+| OKC | Oklahoma City | US | [1.1.1](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.1-okc/OKC.zip) | 2026-07-15 |
 | RTM | Rotterdam-The Hague | NL | [1.1.0](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.0-rtm/RTM.zip) | 2026-04-10 |
 | PSC | Tri-Cities | US | [1.0.1](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.0.1-psc/PSC.zip) | 2026-05-14 |
 | TPE | Taipei | TW | [1.2.0](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.2.0-tpe/TPE.zip) | 2026-04-08 |
