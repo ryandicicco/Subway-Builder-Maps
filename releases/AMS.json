@@ -7,7 +7,7 @@
       "date": "2026-07-15",
       "changelog": "Added new buildings_index.bin for 1.4.x compatibility. Fixed neighborhood labels.",
       "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.2.1-ams/AMS.zip",
-      "sha256": "0e11876ecde0012359643a30c34219db8cfabd53943c56b751f5f90766cf4375"
+      "sha256": "fce9babb2cc133dc0bb9bd84bda3171971626bcf611dccd733236d0b7a9de992"
     },
     {
       "version": "1.2.0",
