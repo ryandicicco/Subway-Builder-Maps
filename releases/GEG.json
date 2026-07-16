@@ -7,7 +7,7 @@
       "date": "2026-07-15",
       "changelog": "Added new buildings_index.bin for 1.4.x compatibility. Fixed neighborhood labels.",
       "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v2.2.1-geg/GEG.zip",
-      "sha256": "55970e743b352c5bcce0e5c68c13227551ba0ffcb3b0bb33096187bb95351f6d"
+      "sha256": "500f089c6fed0ad33ff00bc04a4e7c8f0d2cd0771f4ba4f18377a6ca96a62248"
     },
     {
       "version": "2.2.0",
