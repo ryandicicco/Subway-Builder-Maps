@@ -7,7 +7,7 @@
       "date": "2026-07-15",
       "changelog": "Added new buildings_index.bin for 1.4.x compatibility. Added missing buildings from index to pmtiles for correct rendering behavior.",
       "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.1-okc/OKC.zip",
-      "sha256": "b9b72cbf1b4e137eba6b36605babbf2000859d5aa59d2e6a6827cd8e806023d4"
+      "sha256": "1bd70c7f07f62a4a5f427747cedf81a6f59bca9d6d0e4ba8d4b38cdd13d92fd1"
     },
     {
       "version": "1.1.0",
