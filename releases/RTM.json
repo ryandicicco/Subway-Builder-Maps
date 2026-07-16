@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "1.1.1",
+      "game_version": ">=1.0.0",
+      "date": "2026-07-15",
+      "changelog": "Added new buildings_index.bin for 1.4.x compatibility. Fixed neighborhoood labels.",
+      "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.1-rtm/RTM.zip"
+      "sha256": "12e9270552aa6ffe97a896ea61e99de31b7c7b2ac8f4ad992628fc066284fce8"
+    },
+    {
       "version": "1.1.0",
       "game_version": ">=1.0.0",
       "date": "2026-04-10",
