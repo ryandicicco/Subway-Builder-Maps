@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "1.2.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-07-17",
+      "changelog": "Metro-scale rebuild. Expanded the map from the city core to the full OKC metro (Edmond, Norman, Moore, Del City, Midwest City, Yukon, Bethany, and Warr Acres); roughly a 59 x 67 km bounding box (up from ~32 x 29 km). Buildings regenerated from Overture Maps (2026-06-17) release via depot: 455,904-entry collision index built from 678,989 Overture footprints (filtered to ≥120 m² for the index and ≥50 m² for visual tiles), replacing the older sparse multi-source build with dense residential coverage across the whole metro. `buildings_index.bin` for SB 1.4.x compatibility alongside `buildings_index.json` for older versions. Demand fully regenerated from US Census LODES 2022 origin-destination commute data over the metro with DEMAND_FACTOR raised from 1 to 5 and driving routes computed via OSMnx: total modeled demand grows from 235,101 to 2,163,635 across 1,886 demand points and ~71,000 commute OD pairs, with residents, jobs, and pops fully reconciled and no empty points. Special demand for Will Rogers World Airport (OKC), seven universities (OU Health Sciences Center, UCO, OCU, OSU-OKC, OCCC, Rose State, Mid-America Christian), entertainment anchors (OKC Zoo, State Fair Park, Bricktown), and Tinker AFB. Multi-scale city/suburb/neighborhood labels rebuilt natively, with downtown districts added: Downtown, Bricktown, Deep Deuce, Midtown, Arts District, and Automobile Alley.",
+      "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.2.0-okc/OKC.zip",
+      "sha256": "37ac68ac05ccec9ddc75f614d8e4db978b7d6cb4c93787b951285bc1fa8be55f"
+    },
+    {
       "version": "1.1.1",
       "game_version": ">=1.0.0",
       "date": "2026-07-15",
