@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "1.2.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-07-29",
+      "changelog": "Complete rebuild.",
+      "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.2.0-psc/PSC.zip",
+      "sha256": "4edb505a73966d62a64a6489ac89522b340129f4be7feb29b2ac45209a239567"
+    },
+    {
       "version": "1.1.1",
       "game_version": ">=1.0.0",
       "date": "2026-07-29",
