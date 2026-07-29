@@ -6,6 +6,7 @@
       "game_version": ">=1.0.0",
       "date": "2026-07-29",
       "changelog": "Maintenance re-release. Identical map data to 1.1.0 (version bumped to force a clean re-download). Published while investigating a reported building-collision error that could not be reproduced from the map data; building geometry verified valid (all 43,822 footprints closed).",
+      "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.1-psc/PSC.zip",
       "sha256": "8806f483204350a08327e7461348d8ca0382135f55abd6bcc0174704cd57de64"
     },
     {
