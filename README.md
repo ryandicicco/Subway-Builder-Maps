@@ -11,6 +11,7 @@ Custom maps I made for the game [Subway Builder](https://www.subwaybuilder.com/)
 | CAI | Cairo | EG | [2.2.1](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v2.2.1-cai/CAI.zip) | 2026-07-15 |
 | DEL | Delhi | IN | [1.0.0](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.0.0-del/DEL.zip) | 2026-08-31 |
 | DXB | Dubai | AE | [1.2.1](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.2.1-dxb/DXB.zip) | 2026-07-15 |
+| BOM | Mumbai | IN | [1.0.0](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.0.0-bom/BOM.zip) | 2026-08-31 |
 | GEG | Spokane | US | [2.2.1](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v2.2.1-geg/GEG.zip) | 2026-07-15 |
 | OKC | Oklahoma City | US | [1.2.0](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.2.0-okc/OKC.zip) | 2026-07-17 |
 | RTM | Rotterdam-The Hague | NL | [1.1.1](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.1-rtm/RTM.zip) | 2026-07-15 |
