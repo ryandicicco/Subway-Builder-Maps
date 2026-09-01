@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-31",
+      "changelog": "Initial release.",
+      "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.0.0-ccu/CCU.zip",
+      "sha256": "a1d1558fc2180414ab2e606610238c2be368144a9afac6996777046effedb0cc"
+    },
+  ]
+}
