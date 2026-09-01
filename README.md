@@ -1,6 +1,6 @@
 # Subway Builder Maps
 
-Custom maps I've made for the game [Subway Builder](https://www.subwaybuilder.com/), containing a few cities the vanilla game doesn't come with.
+Custom maps I've made for the game [Subway Builder](https://www.subwaybuilder.com/), containing some cities the vanilla game doesn't come with.
 
 ## Available maps
 
