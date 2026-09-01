@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-31",
+      "changelog": "Initial release.",
+      "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.0.0-maa/MAA.zip",
+      "sha256": "92ca4336ac6e3672d9e7d09f7320c79c56e5d44929882180c8d55eb944135fb2"
+    },
+  ]
+}
