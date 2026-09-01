@@ -32,7 +32,7 @@ You'll need [Railyard](https://subwaybuildermodded.com/railyard/), the community
 
 1. Type in the search bar or select filters on the left side.
 2. Find the map you want and click on it.
-3. Click <img width="14" height="15" alt="Screenshot_2026-08-31_at_4 49 57_AM_50" src="https://github.com/user-attachments/assets/326977e5-7da1-4366-b2bf-a2dcd77527a3" /> in the top right.
+3. Click <img width="17" height="17" alt="Screenshot_2026-08-31_at_7 37 32_PM_55" src="https://github.com/user-attachments/assets/cb681cde-7fa7-4522-96e8-f5616b0e8459" /> in the top right.
 
 ### Alternative method - manual install (also requires [Railyard](https://subwaybuildermodded.com/railyard/))
 1. With Railyard running, click on <img width="80" height="17" alt="Screenshot_2026-08-31_at_4 33 37_AM_55" src="https://github.com/user-attachments/assets/407f3e73-6d49-4fe5-b162-c6c900293c8c" /> in the top left.
