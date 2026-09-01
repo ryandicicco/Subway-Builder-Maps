@@ -8,9 +8,13 @@ Custom maps I made for the game [Subway Builder](https://www.subwaybuilder.com/)
 | Code | City | Country | Version | Last updated |
 | --- | --- | --- | --- | --- |
 | AMS | Amsterdam | NL | [1.2.1](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.2.1-ams/AMS.zip) | 2026-07-15 |
+| BLR | Bengaluru | IN | [1.0.0](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.0.0-blr/BLR.zip) | 2026-08-31 |
 | CAI | Cairo | EG | [2.2.1](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v2.2.1-cai/CAI.zip) | 2026-07-15 |
+| MAA | Chennai | IN | [1.0.0](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.0.0-maa/MAA.zip)
 | DEL | Delhi | IN | [1.0.0](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.0.0-del/DEL.zip) | 2026-08-31 |
 | DXB | Dubai | AE | [1.2.1](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.2.1-dxb/DXB.zip) | 2026-07-15 |
+| HYD | Hyderabad | IN | [1.0.0](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.0.0-hyd/HYD.zip) | 2026-08-31 |
+| CCU | Kolkata | IN | [1.0.0](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.0.0-ccu/CCU.zip)
 | BOM | Mumbai | IN | [1.0.0](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.0.0-bom/BOM.zip) | 2026-08-31 |
 | GEG | Spokane | US | [2.2.1](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v2.2.1-geg/GEG.zip) | 2026-07-15 |
 | OKC | Oklahoma City | US | [1.2.0](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.2.0-okc/OKC.zip) | 2026-07-17 |
