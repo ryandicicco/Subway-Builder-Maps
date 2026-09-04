@@ -8,6 +8,14 @@
       "changelog": "Initial release.",
       "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.0.0-ccu/CCU.zip",
       "sha256": "a1d1558fc2180414ab2e606610238c2be368144a9afac6996777046effedb0cc"
+    },
+    {
+      "version": "1.1.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-09-03",
+      "changelog": "Reworked demand generation to use real 2011 Census ward-level worker counts as spatial weights across all 141 KMC (pre-2012) wards, replacing the old subdistrict-level average. Fixed a coordinate-order bug in the ward boundary source (bharatlas.com/OpenCity) that stored every point as [lat, lon] instead of GeoJSON's required [lon, lat] — wards would have rendered in the wrong place without this fix. All 141 wards matched a Census weight with zero gaps.",
+      "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.0-ccu/CCU.zip",
+      "sha256": "c509750fb737b4a1c49517682007bf8a007265f67d524bca0ac17138f36e87e8"
     }
   ]
 }
