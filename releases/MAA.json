@@ -8,6 +8,14 @@
       "changelog": "Initial release.",
       "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.0.0-maa/MAA.zip",
       "sha256": "92ca4336ac6e3672d9e7d09f7320c79c56e5d44929882180c8d55eb944135fb2"
+    },
+    {
+      "version": "1.1.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-09-03",
+      "changelog": "Reworked demand generation to use real 2011 Census ward-level worker counts (Table PCA-TV) as spatial weights across all 155 Chennai Corporation wards, replacing the old subdistrict-level average. The real citywide jobs total (SHRUG 2013 Economic Census, 1,617,133) is unchanged — only its spatial distribution is now ward-by-ward instead of an even subdistrict spread. All 155 wards matched a Census weight with zero gaps, confirmed by both a direct data join and a full production run with exact conservation.",
+      "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.0-maa/MAA.zip",
+      "sha256": "8fada0ab6f13e5382ec880d0cfd81ffb1ab488859743185b03f8d43d45ab0544"
     }
   ]
 }
