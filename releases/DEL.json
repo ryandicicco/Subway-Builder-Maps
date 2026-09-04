@@ -8,6 +8,14 @@
       "changelog": "Initial release.",
       "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.0.0-del/DEL.zip",
       "sha256": "db2d72b60e56a4de78d652bc9816efe429032e33abfffece75e8f7f0b2d5f420"
+    },
+    {
+      "version": "1.1.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-09-03",
+      "changelog": "Ward-level demand rework (290 Delhi wards, real 2011 Census worker counts as weights) replacing the old single citywide jobs figure. Fixed jobs-total contamination from bordering Haryana/UP, then fixed a resulting gap where that fix had left Gurugram/Noida/Faridabad/Ghaziabad with zero modeled jobs.",
+      "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.0-del/DEL.zip",
+      "sha256": "sha256:d74cebd758ba1bc483af2b00ff0dc368d9e7a2af3c9690f83bb220ca4350d71e"
     }
   ]
 }
