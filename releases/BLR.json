@@ -8,6 +8,14 @@
       "changelog": "Initial release.",
       "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.0.0-blr/BLR.zip",
       "sha256": "ea96c9e662edbb17085245e4269add1b17895b76366779ec9ed64da4ea20f823"
+    },
+    {
+      "version": "1.1.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-09-03",
+      "changelog": "Reworked demand generation to use real 2011 Census ward-level worker counts (Table PCA-TV) as spatial weights across all 198 BBMP wards, replacing the old subdistrict-level average. The real citywide jobs total (SHRUG 2013 Economic Census, 1,940,204) is unchanged — only its spatial distribution is now ward-by-ward. All 198 wards matched a Census weight with zero gaps, confirmed by both a direct data join and a full production run with exact conservation.",
+      "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.0-blr/BLR.zip",
+      "sha256": "570ba11e345500047b9499a5fb3a036dab537b5c1cf7e9e0cfa94fcd1dd27d06"
     }
   ]
 }
