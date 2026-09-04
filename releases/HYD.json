@@ -8,6 +8,14 @@
       "changelog": "Initial release.",
       "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.0.0-hyd/HYD.zip",
       "sha256": "36df8ceebf4480dcd3914175f273bd8351b732cc61982957b6dd8d419c4cd1a3"
+    },
+    {
+      "version": "1.1.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-09-03",
+      "changelog": "Reworked demand generation to use real 2011 Census ward-level worker counts as spatial weights across GHMC's real ward polygons, replacing the old subdistrict-level average. Found and fixed a real dead-zone bug: ~45 of GHMC's ~144 wards (mostly ones absorbed from Ranga Reddy district in 2007) had a real boundary but no matching Census figure, and were stuck at permanent zero job density. Added a landuse-derived proxy weight for those gap wards, clearly flagged as modeled rather than Census-sourced — 27 of 46 got a usable proxy, 19 remain a documented residual limit. Verified across two full production runs with exact conservation.",
+      "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.0-hyd/HYD.zip",
+      "sha256": "7e95455443c865b599cee9409b970f09355d0e8f70c77714daaa9bf8bb68a24d"
     }
   ]
 }
