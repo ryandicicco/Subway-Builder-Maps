@@ -16,6 +16,14 @@
       "changelog": "Reworked demand generation to use real 2011 Census ward-level worker counts as spatial weights across all 141 KMC (pre-2012) wards, replacing the old subdistrict-level average. Fixed a coordinate-order bug in the ward boundary source (bharatlas.com/OpenCity) that stored every point as [lat, lon] instead of GeoJSON's required [lon, lat] — wards would have rendered in the wrong place without this fix. All 141 wards matched a Census weight with zero gaps.",
       "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.0-ccu/CCU.zip",
       "sha256": "c509750fb737b4a1c49517682007bf8a007265f67d524bca0ac17138f36e87e8"
+    },
+    {
+      "version": "1.1.1",
+      "game_version": ">=1.0.0",
+      "date": "2026-09-14",
+      "changelog": "Fixed job totals, which were being calculated from KMC's 141 municipal wards, covering only about 33% of the map's actual population. Salt Lake Sector V and New Town, both major employment hubs, were getting zero jobs regardless of total. Now using real 2011 Census worker counts across the full map area instead. Job total: 1,795,740 -> 5,099,191.",
+      "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.1-ccu/CCU.zip",
+      "sha256": "ff2a22930533e551a6715973d29c4c14950777ad6fc4dfcd73923372d278d6c2"
     }
   ]
 }
