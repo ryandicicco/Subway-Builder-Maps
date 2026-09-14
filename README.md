@@ -36,7 +36,7 @@ You'll need [Railyard](https://subwaybuildermodded.com/railyard/), the community
 ### Alternative method - manual install (also requires [Railyard](https://subwaybuildermodded.com/railyard/))
 1. With Railyard running, click on <img width="80" height="17" alt="Screenshot_2026-08-31_at_4 33 37_AM_55" src="https://github.com/user-attachments/assets/407f3e73-6d49-4fe5-b162-c6c900293c8c" /> in the top left.
 2. Next, click on the button labeled <img width="70" height="19" alt="Screenshot_2026-08-31_at_4 36 23_AM_1_55_1_50" src="https://github.com/user-attachments/assets/0af5dc70-89f9-4399-80d2-176936edd541" /> to the right of the search bar. On the next prompt, click <img width="60" height="18" alt="Screenshot_2026-08-31_at_4 46 13_AM_50_1_50" src="https://github.com/user-attachments/assets/a60b2090-503c-4309-bec6-d3759f74f2d9" /> in the bottom right.
-3. Select the map you just downloaded, then click Open.
+3. Select the map zip file you just downloaded, then click Open.
 4. After Railyard extracts the files, your new map should show up in your Library with a little <img width="69" height="23" alt="Screenshot_2026-08-31_at_4 20 08_AM_1_55" src="https://github.com/user-attachments/assets/a2528c08-dc6e-426f-9697-9a17c0c9d7ec" /> badge next to it.
 
 
