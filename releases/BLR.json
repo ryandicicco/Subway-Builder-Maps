@@ -16,6 +16,14 @@
       "changelog": "Reworked demand generation to use real 2011 Census ward-level worker counts (Table PCA-TV) as spatial weights across all 198 BBMP wards, replacing the old subdistrict-level average. The real citywide jobs total (SHRUG 2013 Economic Census, 1,940,204) is unchanged — only its spatial distribution is now ward-by-ward. All 198 wards matched a Census weight with zero gaps, confirmed by both a direct data join and a full production run with exact conservation.",
       "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.0-blr/BLR.zip",
       "sha256": "570ba11e345500047b9499a5fb3a036dab537b5c1cf7e9e0cfa94fcd1dd27d06"
+    },
+    {
+      "version": "1.1.1",
+      "game_version": ">=1.0.0",
+      "date": "2026-09-14",
+      "changelog": "Fixed job totals, which were being calculated from BBMP's 198 wards, covering about 83% of the map's actual population. Electronic City and the outer Sarjapur Road corridor were getting zero jobs (Electronic City is actually outside BBMP limits in real life too). Now using real 2011 Census worker counts across the full map area. Job total: 3,692,394 -> 4,544,928.",
+      "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.1-blr/BLR.zip",
+      "sha256": "e3e3a50cc2e28a32c6d1d75b2aca6126c90dd576c34703061f48989a3bc7a89b"
     }
   ]
 }
