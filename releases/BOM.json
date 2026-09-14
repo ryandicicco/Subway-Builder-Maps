@@ -16,6 +16,14 @@
       "changelog": "Reworked demand generation to use real 2011 Census worker counts as spatial weights across Mumbai's 24 lettered BMC administrative wards, aggregated up from 97 real Census fine-ward codes via a crosswalk table (the only non-government source used in this project's ward-level work), replacing the old subdistrict-level average. Fixed the same lat/lon coordinate-order bug found in Kolkata's boundary source. All 97 fine-ward codes and all 24 admin wards matched with zero unmatched codes.",
       "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.0-bom/BOM.zip",
       "sha256": "0221a4b4a8d0014d5f67e6b6ad8edf7f6343b324e5a6a2c054085a78476e5690"
+    },
+    {
+      "version": "1.1.1",
+      "game_version": ">=1.0.0",
+      "date": "2026-09-14",
+      "changelog": "Fixed job totals, which were being calculated from BMC's ward boundaries, covering only about 56% of the map's population. Thane, Navi Mumbai, Kalyan-Dombivli, Mira Bhayandar, and Vasai-Virar were getting zero jobs regardless of total. Now using real 2011 Census worker counts across the full map area. Job total: 5,019,417 -> 8,709,364.",
+      "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.1-bom/BOM.zip",
+      "sha256": "249b4fe123cdb19d4bce2440211b17477db0bc538c75e080040d4402a23ddc54"
     }
   ]
 }
