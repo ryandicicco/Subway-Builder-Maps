@@ -8,7 +8,7 @@ Custom maps I've made for the game [Subway Builder](https://www.subwaybuilder.co
 | Code | City | Country | Version | Last updated |
 | --- | --- | --- | --- | --- |
 | AMS | Amsterdam | NL | [1.2.1](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.2.1-ams/AMS.zip) | 2026-07-15 |
-| BLR | Bengaluru | IN | [1.1.1](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.1-blr/BLR.zip) | 2026-09-14 |
+| BLR | Bengaluru | IN | [1.1.2](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.2-blr/BLR.zip) | 2026-09-15 |
 | CAI | Cairo | EG | [2.2.1](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v2.2.1-cai/CAI.zip) | 2026-07-15 |
 | MAA | Chennai | IN | [1.1.1](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.1-maa/MAA.zip) | 2026-09-14 |
 | DEL | Delhi | IN | [1.1.1](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.1-del/DEL.zip) | 2026-09-11 |
