@@ -24,6 +24,14 @@
       "changelog": "Fixed job totals, which were being calculated from KMC's 141 municipal wards, covering only about 33% of the map's actual population. Salt Lake Sector V and New Town, both major employment hubs, were getting zero jobs regardless of total. Now using real 2011 Census worker counts across the full map area instead. Job total: 1,795,740 -> 5,099,191.",
       "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.1-ccu/CCU.zip",
       "sha256": "ff2a22930533e551a6715973d29c4c14950777ad6fc4dfcd73923372d278d6c2"
+    },
+    {
+      "version": "1.1.2",
+      "game_version": ">=1.0.0",
+      "date": "2026-09-15",
+      "changelog": "Removed ~125,900 residents incorrectly modeled on top of Netaji Subhas Chandra Bose International Airport and other aviation infrastructure (covering both polygon- and line-mapped runway/taxiway features), and widened the spatial binning resolution for faster in-game loading.",
+      "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.2-ccu/CCU.zip",
+      "sha256": "e4d5a96716621daf584bade1d72a83333fc90fbcbde64b793a0d2cb3a871558f"
     }
   ]
 }
