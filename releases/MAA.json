@@ -24,6 +24,14 @@
       "changelog": "Fixed job totals, which were being calculated from Chennai Corporation's old, pre-2011 ward boundary, covering under half the map's actual population. The OMR/Sholinganallur IT corridor plus Ambattur, Tambaram, and Alandur were getting zero jobs. Now using real 2011 Census worker counts across the full map area. Job total: 1,817,297 -> 4,093,094.",
       "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.1-maa/MAA.zip",
       "sha256": "89f7dad11d70e63531951fca609606455c4c56b638a489d3efb0dbb124038664"
-    }
+    },
+    {
+      "version": "1.1.2",
+      "game_version": ">=1.0.0",
+      "date": "2026-09-15",
+      "changelog": "Removed ~86,600 residents incorrectly modeled on top of Chennai International Airport and other aviation infrastructure (up from ~72,900 in the polygon-only pass, now also covering aeroway features mapped as OSM lines), and widened the spatial binning resolution for faster in-game loading.",
+    },
+      "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.2-maa/MAA.zip",
+      "sha256": "d621b01be36c6e797c6a5b537751f434956e67164f2fe568ff72ac170ec176a1"
   ]
 }
