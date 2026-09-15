@@ -26,9 +26,9 @@
       "sha256": "sha256:3460e7d89959a1a2cc3a74e691cc1c1189b79f141372191d155cbc88c7cddf35"
     },
     {
-      "version: "1.1.2",
+      "version": "1.1.2",
       "game_version": ">=1.0.0",
-      "date": 2026-09-15",
+      "date": "2026-09-15",
       "changelog": "Expanded the airport-population fix to also catch runway/taxiway features mapped as OSM line ways (752 found) instead of polygons, plus a rasterization fix closing small under-masking gaps. This now removed ~187,300 residents total from IGI Airport and other aviation infrastructure. Also widened the spatial binning resolution for faster in-game loading.",
       "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.2-del/DEL.zip",
       "sha256": "8226bad5490472a8e5ab3931bf8741f8a0111387bbd8d629875824236f9148ea"
