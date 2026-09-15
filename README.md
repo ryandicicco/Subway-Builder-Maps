@@ -10,12 +10,12 @@ Custom maps I've made for the game [Subway Builder](https://www.subwaybuilder.co
 | AMS | Amsterdam | NL | [1.2.1](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.2.1-ams/AMS.zip) | 2026-07-15 |
 | BLR | Bengaluru | IN | [1.1.2](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.2-blr/BLR.zip) | 2026-09-15 |
 | CAI | Cairo | EG | [2.2.1](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v2.2.1-cai/CAI.zip) | 2026-07-15 |
-| MAA | Chennai | IN | [1.1.1](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.1-maa/MAA.zip) | 2026-09-14 |
-| DEL | Delhi | IN | [1.1.1](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.1-del/DEL.zip) | 2026-09-11 |
+| MAA | Chennai | IN | [1.1.2](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.2-maa/MAA.zip) | 2026-09-15 |
+| DEL | Delhi | IN | [1.1.2](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.2-del/DEL.zip) | 2026-09-15 |
 | DXB | Dubai | AE | [1.2.1](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.2.1-dxb/DXB.zip) | 2026-07-15 |
-| HYD | Hyderabad | IN | [1.1.1](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.1-hyd/HYD.zip) | 2026-09-14 |
-| CCU | Kolkata | IN | [1.1.1](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.1-ccu/CCU.zip) | 2026-09-14 |
-| BOM | Mumbai | IN | [1.1.1](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.1-bom/BOM.zip) | 2026-09-14 |
+| HYD | Hyderabad | IN | [1.1.2](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.2-hyd/HYD.zip) | 2026-09-15 |
+| CCU | Kolkata | IN | [1.1.2](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.2-ccu/CCU.zip) | 2026-09-15 |
+| BOM | Mumbai | IN | [1.1.2](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.2-bom/BOM.zip) | 2026-09-15 |
 | GEG | Spokane | US | [2.2.1](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v2.2.1-geg/GEG.zip) | 2026-07-15 |
 | OKC | Oklahoma City | US | [1.2.0](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.2.0-okc/OKC.zip) | 2026-07-17 |
 | RTM | Rotterdam-The Hague | NL | [1.1.1](https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.1-rtm/RTM.zip) | 2026-07-15 |
