@@ -23,7 +23,7 @@
       "date": "2026-09-11",
       "changelog": "Fixes zero-job coverage in Gurugram/Noida/Faridabad/Ghaziabad (now pulled from real SHRUG subdistrict employment data) and removes residents incorrectly placed inside IGI Airport's perimeter (including on the runway).",
       "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.1-del/DEL.zip",
-      "sha256": "sha256:3460e7d89959a1a2cc3a74e691cc1c1189b79f141372191d155cbc88c7cddf35"
+      "sha256": "3460e7d89959a1a2cc3a74e691cc1c1189b79f141372191d155cbc88c7cddf35"
     },
     {
       "version": "1.1.2",
