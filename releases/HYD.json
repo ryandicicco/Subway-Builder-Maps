@@ -24,6 +24,14 @@
       "changelog": "Fixed job totals, which were being calculated from GHMC's ward boundaries, covering about 66% of the map's population. Core IT hubs (HITEC City, Gachibowli, Financial District) were fine, but roughly 3.4 million people further out in Ranga Reddy and Medchal-Malkajgiri were getting zero jobs. Now using real 2011 Census worker counts across the full map area. Job total: 1,319,869 -> 3,116,289.",
       "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.1-hyd/HYD.zip",
       "sha256": "18cf46e3c0a61207a61e4e76c15c11cb354590c4b491ba16e56a409d5b1d0801"
+    },
+    {
+      "version": "1.1.2",
+      "game_version": ">=1.0.0",
+      "date": "2026-09-15",
+      "changelog": "Removed ~87,000 residents incorrectly modeled on Rajiv Gandhi International Airport's runway/taxiway footprint (up from ~72,100 in the polygon-only pass, now also covering aeroway features mapped as OSM lines), and widened the spatial binning resolution for faster in-game loading.",
+      "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.1-hyd/HYD.zip",
+      "sha256": "447626b65ddf0c1e4e18b01909edac8ec70ceed83c7a8acf36137bd02d10111a"
     }
   ]
 }
