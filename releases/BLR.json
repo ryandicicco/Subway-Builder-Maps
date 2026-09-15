@@ -24,6 +24,14 @@
       "changelog": "Fixed job totals, which were being calculated from BBMP's 198 wards, covering about 83% of the map's actual population. Electronic City and the outer Sarjapur Road corridor were getting zero jobs (Electronic City is actually outside BBMP limits in real life too). Now using real 2011 Census worker counts across the full map area. Job total: 3,692,394 -> 4,544,928.",
       "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.1-blr/BLR.zip",
       "sha256": "e3e3a50cc2e28a32c6d1d75b2aca6126c90dd576c34703061f48989a3bc7a89b"
+    },
+    {
+      "version": "1.1.2",
+      "game_version": ">=1.0.0",
+      "date": "2026-09-15",
+      "changelog": "Removed ~64,900 residents incorrectly modeled on top of Bengaluru's airports and Yelahanka Air Force Station's runway/taxiways, and widened the spatial binning resolution for faster in-game loading.",
+      "download": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.2-blr/BLR.zip",
+      "sha256": "42df0f6a18f1baf0af886b97aea868413dd5e84f6cc377eceb7087cd5dc77487"
     }
   ]
 }
